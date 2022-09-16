@@ -2,6 +2,7 @@ body {
   font-family: "Fira Sans", Arial, Helvetica, sans-serif;
 }
 
+
 * {
   margin: none;
   padding: none;
@@ -565,7 +566,9 @@ ul {
 }
 
 .footer a {
-color: #fff;}
+  color: #fff;
+  text-decoration: none;
+}
 
 
 @media (max-width: 800px) {
